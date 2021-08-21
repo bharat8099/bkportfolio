@@ -1,0 +1,278 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner{
+    display: block;
+    margin: 10px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/portfolio.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    transition: box-shadow 0.1s, transform 0.1s;
+}
+.inner:hover{
+    box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.new h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+	margin-right: 50px;
+	
+}
+.hero1{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner1{
+    margin: 100px auto;
+	margin-bottom: 50px !important;
+    width: 500px;
+    height:300px;
+    background-image: url('/source-4280758_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+
+}
+.inner:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner1 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero2{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner2{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/startup-594090_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+
+}
+.inner2:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner2 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero3{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner3{
+    margin: 100px auto;
+    width: 500px;
+    height:300px;
+    background-image: url('/student-849824_640.jpg');
+    background-size: cover;
+    background-position: center;
+	 transition: box-shadow 0.1s, transform 0.1s;
+	 position: relative;
+
+}
+.inner3:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner3 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero4{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner4{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/student-849826_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+ 
+}
+.inner4:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner4 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero5{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner5{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/the-conference-3248255_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+    
+}
+.inner5:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner5 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero6{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner6{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/meeting-2284501_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+
+}
+.inner6:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner6 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero7{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner7{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/student-849824_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+   
+}
+.inner7:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner7 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero8{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner8{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/portfolio.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+
+}
+.inner8:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner8 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}
+.hero9{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+.inner9{
+    margin: 100px auto;
+    width: 500px;
+    height: 300px;
+    background-image: url('/student-849826_640.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+	transition: box-shadow 0.1s, transform 0.1s;
+   
+}
+.inner7:hover{
+	box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
+
+}
+.inner9 h1{
+    width: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    border:2px solid ;
+}

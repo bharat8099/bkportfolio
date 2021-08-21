@@ -1,0 +1,138 @@
+
+#pointer-dot {
+    left: 0;
+    top: 0;
+    width: 30;
+    height: 0;
+    border: 4.5px solid rgb(255, 0, 0);
+    position: fixed;
+    border-radius: 8px;
+    z-index: 101;
+    pointer-events: none;
+    transition: border-color 0.5s;
+}
+
+#pointer-ring {
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    padding: 15px;
+    border: 2px solid #86edff !important;
+    position: fixed;
+    border-radius: 1000px !important;
+    z-index: 102;
+    pointer-events: none;
+}
+
+html {
+    cursor: none !important;
+  
+}
+
+a {
+    cursor: none !important;
+}
+
+.ham{
+    cursor: zoom-in;
+}
+.scrollbtn:hover{
+    
+    scale: (0,1);
+}
+.scrollspan:hover{
+    
+    
+    box-shadow: 0px 15px 20px rgb(255, 251, 251);
+    color: #fff;
+    transform: translateY(8px);
+}
+.scollspan:hover{
+  
+    border: 10px solid #86edff !important;
+    background-color: yellow;
+   
+}
+.scollspan:hover  #pointer-ring {
+    
+    border: 2px solid #86edff !important;
+   
+}
+span#pointer-dot:hover{
+    color: red;
+
+    border: 45px solid #86edff !important;
+}
+a span{
+    color: red;
+}
+.codepage{
+    font-family: 'Source Code Pro', monospace;
+color:white;
+font-size: 20px;
+/* margin-left: 200px; */
+
+}
+.greencolor{
+     color: rgb(60, 250, 101);
+
+ }
+ .yellowcolor{
+     color: yellow;
+ }
+ 
+ .voiletcolor{
+     color: rgb(46, 50, 243);
+ }
+ .comment{
+     color: rgb(56, 51, 51);
+ }
+ .colorred{
+     color: red;
+ }
+ .colorblue{
+     color: rgb(108, 233, 255);
+ }
+ .serial{
+     color:rgb(211, 197, 197); 
+     
+ }
+ .colororange{
+     color: darkorange;
+ }
+.hover{
+    height: 25px;
+    padding-left: 200px;
+    
+}
+ .hover:hover{
+    
+     width: 100%;
+     /* margin-right: 200px; */
+     height: 25px;
+     background-color: rgb(83, 83, 94);
+ }
+.hoverse{
+    height: 125px;
+    padding-left: 200px;
+    
+}
+ .hoverse:hover{
+    
+     width: 100%;
+     /* margin-right: 200px; */
+     height: 125px;
+     background-color: rgb(83, 83, 94);
+ }
+ .cursor{
+     color: white;
+     margin-bottom: 150px;
+     margin-left: 290px;
+     width: 10px;
+     animation: sdb04 1s infinite;
+ }
+ @keyframes sdb04 {
+  0% { color: rgb(3, 3, 3);}
+  100% {color: rgb(255, 255, 255);}
+}
